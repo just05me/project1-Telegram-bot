@@ -3,7 +3,7 @@ import sqlite3
 from aiogram import Bot, Dispatcher, types, F
 
 # Подключение бота
-HellYeahItMybot = Bot(token="8192548548:AAHQRvZlWx0MzEbyi91wwiakR4lWuJTaqzc")
+HellYeahItMybot = Bot(token="Telegra-bot token")
 dp = Dispatcher()
 
 # Функция создающая базу данных
